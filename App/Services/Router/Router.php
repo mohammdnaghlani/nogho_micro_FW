@@ -58,7 +58,7 @@ class Router
      */
     private static function get_all_routs()
     {
-        return  inc_from_base('Routes\web.php');
+        return  inc_from_base('Routes'. D_S .'web.php');
     }
     /**
      * get_allowed_method_this_rout() method.
