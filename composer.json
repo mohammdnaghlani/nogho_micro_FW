@@ -1,0 +1,15 @@
+{
+    "name": "noghol/microframework",
+    "description": "nothing",
+    "authors": [
+        {
+            "name": "MohammadNaghlani",
+            "email": "mr.naghlani@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {},
+    "autoload": {
+        "psr-4": {"App\\": "App/"}
+    }
+}
